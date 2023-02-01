@@ -3,5 +3,5 @@ Allow: /
 Allow: /images/
 Allow: /pages/
 
-Sitemap: https://cocosecc.com/sitemap.txt
-Sitemap: https://www.cocosecc.com/sitemap.txt
+Sitemap: https://cocosecc.com/sitemap.xml
+Sitemap: https://www.cocosecc.com/sitemap.xml

@@ -23,9 +23,17 @@ body {
 }
 
 .topic-introduction {
-  margin: 5px 15% 0 15%;
+  margin: 0.5% 30% 0 13%;
   background-color: #282A35;
   padding: 30px;
+  min-width: 55%;
+}
+
+@media only screen and (max-width: 25em) {
+  .topic-introduction {
+    margin-left: 3%;
+    margin-right: 3%;
+  }
 }
 
 .topic {

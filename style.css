@@ -1,0 +1,37 @@
+body {
+  background-color: rgb(28, 28, 33);
+  margin: 0;
+  color: rgb(191, 191, 191);
+}
+
+.cocosecc-logo {
+  width: 2.5em;
+  text-align: justify;
+  margin-top: 0.2em;
+  margin-left: 2em;
+}
+
+.second-center {
+  text-align: center;
+  background-color: #282A35;
+}
+
+.webpage1 {
+  margin: 1.5% 0 5% 0;
+  width: 40%;
+  height: 40%;
+}
+
+.topbar {
+  position: fixed;
+  background-color: rgb(28, 28, 33);
+  width: 100%;
+  margin-bottom: 20px;
+  top: 0px;
+  height: 3.7em;
+}
+
+
+html {
+  scroll-behavior: smooth;
+}

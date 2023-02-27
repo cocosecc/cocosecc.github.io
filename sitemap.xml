@@ -1,41 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" nighteye="disabled">
+  <link type="text/css" rel="stylesheet" id="dark-mode-custom-link"/>
+  <link type="text/css" rel="stylesheet" id="dark-mode-general-link"/>
+  <style lang="en" type="text/css" id="dark-mode-custom-style"/>
+  <style lang="en" type="text/css" id="dark-mode-native-style"/>
+  <style lang="en" type="text/css" id="dark-mode-native-sheet"/>
+  <!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
+  <url>
+    <loc>https://cocosecc.com/</loc>
+    <lastmod>2023-02-27T15:14:55+00:00</lastmod>
+  </url>
 
+  <url>
+    <loc>https://cocosecc.com/pages/disable-KeyboardKey/Keyboard-Key.html</loc>
+    <lastmod>2023-02-27T15:14:55+00:00</lastmod>
+  </url>
 
-<url>
-  <loc>http://cocosecc.com/</loc>
-  <lastmod>2023-01-31T20:40:12+00:00</lastmod>
-</url>
-      
-<url>
-  <loc>https://cocosecc.com/pages/How%20to%20disable%20keyboard%20key/Keyboard%20Key.html</loc>
-  <lastmod>2023-01-31T20:40:12+00:00</lastmod>
-</url>
-      
-<url>
-  <loc>https://cocosecc.com/pages/How%20to%20use%20one%20Mouse%20and%20Keyboard%20on%20multiple%20computers/MultiMouse.html</loc>
-  <lastmod>2023-02-01T18:38:45+00:00</lastmod>
-</url>
+  <url>
+    <loc>https://cocosecc.com/pages/Mouse-and-Keyboard-on-multiple-computers/MultiMouse.html</loc>
+    <lastmod>2023-02-27T15:14:55+00:00</lastmod>
+  </url>
 
-<url>
-  <loc>https://cocosecc.com/pages/The%20Importance%20of%20Strong%20Passwords%20and%20Two-Factor%20Authentication/StrongPassword.html</loc>
-  <lastmod>2023-02-15T18:46:06+00:00</lastmod>
-</url>
-      
-<url>
-  <loc>https://cocosecc.com/pages/How%20to%20recover%20deleted%20files%20in%20Windows/FileRecovery.html</loc>
-  <lastmod>2023-02-15T18:46:06+00:00</lastmod>
-</url>
-      
-<url>
-  <loc>https://cocosecc.com/pages/lock-files&folders/LockFiles.html</loc>
-  <lastmod>2023-02-22T23:10:11+00:00</lastmod>
-</url>
+  <url>
+    <loc>https://cocosecc.com/pages/recover-files/FileRecovery.html</loc>
+    <lastmod>2023-02-27T15:14:55+00:00</lastmod>
+  </url>
 
+  <url>
+    <loc>https://cocosecc.com/pages/Strong-Passwords-2FA/StrongPassword.html</loc>
+    <lastmod>2023-02-27T15:14:55+00:00</lastmod>
+  </url>
+
+  <url>
+    <loc>https://cocosecc.com/pages/lock-files/LockFiles.html</loc>
+    <lastmod>2023-02-27T15:14:55+00:00</lastmod>
+  </url>
 
 </urlset>

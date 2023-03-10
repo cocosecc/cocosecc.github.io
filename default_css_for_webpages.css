@@ -61,6 +61,10 @@ body {
   line-height: 1em;
 }
 
+a {
+  color: orange;
+}
+
 
 /* below is extra css for site (required) */
 

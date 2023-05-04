@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Allow: /images/
+Allow: /pages/
+
+Sitemap: https://cocosecc.com/sitemap.xml
+Sitemap: https://www.cocosecc.com/sitemap.xml

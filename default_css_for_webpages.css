@@ -14,7 +14,7 @@ body {
 .cocosecc-logo {
   width: 1.775em;
   background-color: rgb(28, 28, 33);
-  margin-top: 2px;
+  margin-top: 3px;
 }
 
 .list1{
@@ -83,9 +83,13 @@ body {
     margin:13px 25px 0 0;
     float: right;
   }
-  
-   .list1{
+
+  .list1{
     padding-left: 15px;
+  }
+
+  .cocosecc-logo{
+    margin-top: 4px;
   }
 
 }

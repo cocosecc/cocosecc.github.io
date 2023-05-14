@@ -94,6 +94,24 @@ html {
   font-size: 125%;
 }
 
+.secretfolder-image{
+  margin-top: 12px;
+  margin-bottom: 20px;
+  width: 30%;
+  height: 35%;
+  min-width: 105px;
+  min-height: 110px
+}
+
+.cpu-temp{
+  width: 35%;
+  height: 35%;
+  min-width:150px;
+  min-height: 150px;
+}
+.cpu-temp-linux{
+  margin-top:30px;
+}
 
 
 
@@ -131,6 +149,25 @@ html {
   .cocosecc-logo {
     margin-left: 1.2em;
   }
+
+.secretfolder-image{
+  margin: 0px;
+  width: 26%;
+  height: 30%;
+  min-width: 100px;
+  min-height: 20px"
+}
+
+.cpu-temp{
+  width: 20%;
+  height: 25%;
+  min-width: 120px;
+  min-height: 90px;
+}
+
+.cpu-temp-linux{
+  margin-top: 20px;
+}
 
 }
 
